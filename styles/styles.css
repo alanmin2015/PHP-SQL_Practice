@@ -1,0 +1,16 @@
+body {
+ font-family: 'Signika', sans-serif; 
+ background-color: burlywood;
+}
+h1{
+    margin-left: 50px;
+}
+.boardgame {
+    padding: 20px;
+    padding-left: 80px;
+    border: 1px solid goldenrod;
+    background-color: #d6cbcb;
+    margin: 20px;
+    width: 350px;
+    display: inline-block;
+}
